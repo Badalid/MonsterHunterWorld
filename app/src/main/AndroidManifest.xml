@@ -11,13 +11,13 @@
 
         android:allowBackup="true"
         android:icon="@mipmap/icon"
-        android:label="Monster Hunter World Wikia"
+        android:label="MHW Wikia"
         android:roundIcon="@mipmap/icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
-            android:label="Monster Hunter World Wikia"
+            android:label="MHW Wikia"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".SigninActivity">
             <intent-filter>
